@@ -1,0 +1,16 @@
+{
+  "name": "System-X-application",
+  "version": "1.0.0",
+  "description": "A Discord bot for handling staff and developer applications using slash commands.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "SystemX",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "discord-api-types": "^0.31.2",
+    "discord.js": "^14.15.3"
+  }
+}

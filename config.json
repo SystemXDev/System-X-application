@@ -1,0 +1,7 @@
+{
+    "token": "Discord Token Here",
+    "clientId": "ClientID Here",
+    "guildId": "GuildID Here",
+    "applicationChannelId": "Send Application ChannelID Here",
+    "notificationChannelId": "Admin Notification ChannelID Here"
+}
